@@ -6652,7 +6652,7 @@ centered_box.__scopedHash = '1185088246';
 
 /***/ }),
 
-/***/ 4:
+/***/ 1:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__("./pages/_error.js");
@@ -6660,7 +6660,7 @@ module.exports = __webpack_require__("./pages/_error.js");
 
 /***/ })
 
-},[4])
+},[1])
           return { page: comp.default }
         })
       ;
